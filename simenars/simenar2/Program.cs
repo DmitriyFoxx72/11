@@ -46,11 +46,11 @@ Console.WriteLine($"New version of  is {N}"); */
        
         if(N == -1)
             {
-            Console.WriteLine("Не содержит третьего числа");
+            Console.WriteLine($"{num} -> Не содержит третьего числа");
         }
         else
         {
-              Console.WriteLine($"Третья цифра заданного числа {N}");
+              Console.WriteLine($"{num} -> Третья цифра заданного числа {N}");
         }
 */
 
