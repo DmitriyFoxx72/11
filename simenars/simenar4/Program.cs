@@ -34,25 +34,25 @@
 // 9012 -> 12
 
 
-int CutNumber (int num)
-{ 
-    int n = num;
-     int sum  = 0;
-     int a = 0;
+// int CutNumber (int num)
+// { 
+//     int n = num;
+//      int sum  = 0;
+//      int a = 0;
 
-      while (n > 0)
-        {
-        a = n - n % 10;
-         sum = sum + (n - a);
-         n = n / 10;
-         }
-         return sum; 
-}
+//       while (n > 0)
+//         {
+//         a = n - n % 10;
+//          sum = sum + (n - a);
+//          n = n / 10;
+//          }
+//          return sum; 
+// }
 
-Console.WriteLine( "Input num ");
-int a = Convert.ToInt32(Console.ReadLine( ));
-int N = CutNumber(a);
-Console.WriteLine($"Сумма цифр в числе {a} равна: {N}"); 
+// Console.WriteLine( "Input num ");
+// int a = Convert.ToInt32(Console.ReadLine( ));
+// int N = CutNumber(a);
+// Console.WriteLine($"Сумма цифр в числе {a} равна: {N}"); 
 
 
 
@@ -61,6 +61,9 @@ Console.WriteLine($"Сумма цифр в числе {a} равна: {N}");
 // 1, 2, 5, 7, 19 -> [1, 2, 5, 7, 19]
 
 // 6, 1, 33 -> [6, 1, 33]
+
+Что нужно вписать в код, чтобы метод стал не void,т.е. 
+возвращал готовый фиксированый массив? Благодарю.
 
 
 // void FillArray (int size)
