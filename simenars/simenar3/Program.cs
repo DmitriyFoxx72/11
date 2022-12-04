@@ -73,6 +73,34 @@
 // SqrO1(N);
 
 
+int Palindrome (int num)
+{
+    int num1 = 0;
+   int a = 1;
+   int b = 1;
+for (int i = 1; i <= N; i++)
+    num1 = (num % 100)  / 10;
+  a = a * 10;
+  b = b * 10;
+
+            if (num1 == num4 || num2 == num3)
+               {            
+                return num1;
+               }
+            return -1;
+}
+
+Console.WriteLine("Input num ");
+int num = Convert.ToInt32(Console.ReadLine());
+int N = Palindrome(num);     
+if(N == -1)
+{
+ Console.WriteLine($"Ваше число: {num} -> не палиндром");
+  }
+   else
+ {
+   Console.WriteLine($"Ваше число: {num} -> палиндром");
+ }
 
 
 
