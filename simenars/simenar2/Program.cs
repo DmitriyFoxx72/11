@@ -7,16 +7,16 @@
 // 918 -> 1
 
 
-/*int CutNumber (int num)
-{
-        int ed = num % 100;
-        int sot= ed / 10;
-        return sot;
-}
-Console.WriteLine( "Input num ");
-int a = Convert.ToInt32(Console.ReadLine( ));
-int N = CutNumber(a);
-Console.WriteLine($"New version of  is {N}"); */
+// int CutNumber (int num)
+// {
+//         int ed = num % 100;
+//         int sot= ed / 10;
+//         return sot;
+// }
+// Console.WriteLine( "Input num ");
+// int a = Convert.ToInt32(Console.ReadLine( ));
+// int N = CutNumber(a);
+// Console.WriteLine($"New version of  is {N}"); 
 
 
 // Задача 13: Напишите программу, которая выводит третью цифру заданного числа или сообщает, что третьей цифры нет.
@@ -78,13 +78,5 @@ int num1 = Convert.ToInt32(Console.ReadLine());
 bool N = main(num1);
 Console.WriteLine($"{N} ");
 */
-
-
-
-
-
-
-
-
 
 
