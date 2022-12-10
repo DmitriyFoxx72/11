@@ -129,7 +129,7 @@ double[] CreateRandomArray (int size, int minValue, int maxValue)
              if (array[i] < min) 
                 min = array[i];
     }
-      result = max - min;  
+      result = Math.Round((max - min), 2);  
       Console.WriteLine($" Разница между максимальным и минимальным значением в массиве равна -> {result}");
   }
   Console.WriteLine("Введите размер массива");
