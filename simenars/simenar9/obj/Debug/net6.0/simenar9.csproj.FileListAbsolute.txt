@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\MYSEMINARSC#4\simenars\simenar9\bin\Debug\net6.0\simenar9.exe
+C:\Users\admin\Desktop\MYSEMINARSC#4\simenars\simenar9\bin\Debug\net6.0\simenar9.deps.json
+C:\Users\admin\Desktop\MYSEMINARSC#4\simenars\simenar9\bin\Debug\net6.0\simenar9.runtimeconfig.json
+C:\Users\admin\Desktop\MYSEMINARSC#4\simenars\simenar9\bin\Debug\net6.0\simenar9.dll
+C:\Users\admin\Desktop\MYSEMINARSC#4\simenars\simenar9\bin\Debug\net6.0\simenar9.pdb
+C:\Users\admin\Desktop\MYSEMINARSC#4\simenars\simenar9\obj\Debug\net6.0\simenar9.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\MYSEMINARSC#4\simenars\simenar9\obj\Debug\net6.0\simenar9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\MYSEMINARSC#4\simenars\simenar9\obj\Debug\net6.0\simenar9.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\MYSEMINARSC#4\simenars\simenar9\obj\Debug\net6.0\simenar9.AssemblyInfo.cs
+C:\Users\admin\Desktop\MYSEMINARSC#4\simenars\simenar9\obj\Debug\net6.0\simenar9.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\MYSEMINARSC#4\simenars\simenar9\obj\Debug\net6.0\simenar9.dll
+C:\Users\admin\Desktop\MYSEMINARSC#4\simenars\simenar9\obj\Debug\net6.0\refint\simenar9.dll
+C:\Users\admin\Desktop\MYSEMINARSC#4\simenars\simenar9\obj\Debug\net6.0\simenar9.pdb
+C:\Users\admin\Desktop\MYSEMINARSC#4\simenars\simenar9\obj\Debug\net6.0\simenar9.genruntimeconfig.cache
+C:\Users\admin\Desktop\MYSEMINARSC#4\simenars\simenar9\obj\Debug\net6.0\ref\simenar9.dll
